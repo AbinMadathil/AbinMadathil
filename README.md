@@ -1,6 +1,6 @@
-
+<div align="center">
 ![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/896a07c2-d220-4b4d-95b7-c79292210e0d)
-
+</div>
 <h1 align="center">Hi 👋, I'm Abin Madathil</h1>
 
 
