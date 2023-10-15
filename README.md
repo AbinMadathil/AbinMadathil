@@ -1,9 +1,7 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Abin Madathil</h1>
 
-![Uploading standard.gif…]()
+![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/af64d319-521a-44d4-a4ae-9b5f45ad99c6)
+
 
 <h3 align="center">A passionate developer from India</h3>
 
