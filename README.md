@@ -1,7 +1,10 @@
-![An animated GIF](file:///home/abin/Videos/Files/new%20portfolio/DevFolio/assets/img/standard.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Abin Madathil</h1>
+
+![Uploading standard.gif…]()
+
 <h3 align="center">A passionate developer from India</h3>
 
 <a href="https://abinmadathil.netlify.app/" target="_blank" onclick="window.open(this.href); return false;">Check out my sample website :)</a><br>
