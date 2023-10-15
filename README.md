@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm</h1>
-![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/bc584ea2-7410-471e-ab08-a5c5bb717c03)
+<h1 align="center">Hi 👋, I'm Abin Madathil</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 
