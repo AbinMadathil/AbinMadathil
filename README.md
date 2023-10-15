@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm</h1>
-![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/af64d319-521a-44d4-a4ae-9b5f45ad99c6)
+![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/bc584ea2-7410-471e-ab08-a5c5bb717c03)
+
 <h3 align="center">A passionate developer from India</h3>
 
 <a href="https://abinmadathil.netlify.app/" target="_blank" onclick="window.open(this.href); return false;">Check out my sample website :)</a><br>
