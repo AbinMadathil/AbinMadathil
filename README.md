@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abin Madathil</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+<img src="![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/af64d319-521a-44d4-a4ae-9b5f45ad99c6)" alt="Custom Sized GIF" width="300" height="200">
 
-![standard](https://github.com/AbinMadathil/AbinMadathil/assets/103134947/af64d319-521a-44d4-a4ae-9b5f45ad99c6)
+
 
 
 <h3 align="center">A passionate developer from India</h3>
