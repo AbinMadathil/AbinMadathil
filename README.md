@@ -29,7 +29,10 @@
 
 <br></br>
 
-<h3 align="center">🛠 My Tech Stack</h3>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&pause=1000&color=9CA3AF&center=false&vCenter=false&repeat=false&width=600&lines=My+Tech+Stacks" />
+</h1>
+
 
 <!-- Languages -->
 <p align="center">
