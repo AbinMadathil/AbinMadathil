@@ -9,23 +9,27 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/3e16f6c899626176be6f258c08a25f38375be72778d49a1f45182d9d7676cde8/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e676966" width="600" />
-</p>
+<!-- GIF on the right -->
+<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" width="400" height="250" style="object-fit: contain;">
 
----
+<!-- Content on the left -->
+<h3>
+  I'm <strong>Abin Madathil</strong>, a software developer from India 🇮🇳 who loves solving real-world problems with code.  
+  I specialize in building full-stack apps and automating workflows using modern tech like .NET, Angular, and Node.js.
+</h3>
 
-## 🧑‍💻 About Me
+<ul>
+  <li>🛠 Software Engineer I at Celigo</li>
+  <li>🌱 Continuous Learning</li>
+  <li>⚡ Scalable APIs, ETL pipelines & Dashboards</li>
+</ul>
 
-I'm **Abin Madathil**, a passionate software developer from India 🇮🇳  
-I focus on building clean, efficient systems and love solving real-world problems through code.
 
-- 🔭 **Currently:** Working as a Software Engineer I  **@Celigo**
-- 💡 **Tech Focus:** Backend Systems, API Development, Full-Stack Applications  
-- 🌱 **Learning:** React, Rust, AI/ML, System Design, and Scalable Architecture  
-- 🤝 **Collaboration:** Open to freelance, remote, or OSS collaboration  
 
----
+
+
+<br>
+<br>
 
 <h2 align="center">⚒️ My Tech Stack</h2>
 
