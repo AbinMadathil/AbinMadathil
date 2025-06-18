@@ -10,7 +10,7 @@
 
 
 <!-- GIF on the right -->
-<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" width="400" height="250" style="object-fit: contain;">
+<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" width="350" height="200" style="object-fit: contain;">
 
 <!-- Content on the left -->
 <h3>
@@ -27,8 +27,7 @@
 
 
 
-<br>
-<br>
+<br></br>
 
 <h3 align="center">🛠 My Tech Stack</h3>
 
