@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://abinmadathil.netlify.app/" target="_blank">
+  <a href="https://abinmadathil.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abinmadathil/" target="_blank">
