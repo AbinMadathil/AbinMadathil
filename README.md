@@ -70,7 +70,6 @@ I focus on building clean, efficient systems and love solving real-world problem
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 
