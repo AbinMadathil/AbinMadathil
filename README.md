@@ -1,71 +1,61 @@
-<h1 align="center">Abin Madathil</h1>
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=abinmadathil&label=Visitors&color=0eb45e&style=flat" alt="profile views" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Abin+Madathil;Welcome+to+my+GitHub+Profile!" />
+</h1>
+
+
+<!-- Coding Animation -->
 <p align="center">
-  <a href="https://abinmadathil.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abinmadathil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/abin_madathil/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+  <img src="https://camo.githubusercontent.com/3e16f6c899626176be6f258c08a25f38375be72778d49a1f45182d9d7676cde8/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e676966" width="600" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 💼 Currently working as a **Software Engineer I** at **Celigo**.
--  Hands-on with **.NET, Angular, Node.js, Python**, and modern web development.
--  Actively enhancing my skills in **Cloud, DevOps, and System Design**
--  Open to collaborations in scalable system design, automation, and development best practices
+I'm **Abin Madathil**, a passionate software developer from India 🇮🇳  
+I focus on building clean, efficient systems and love solving real-world problems through code.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-`JavaScript` `Python` `Java`  `TypeScript` `SQL` `C#`
-
-**Frameworks / Libraries**  
-`NodeJs` `.NET` `Spring` `Express.js` `React` `Angular` `Flask` `Django`
-
-**Databases**  
-`PostgreSQL` `MySQL` `MongoDB`  `SQL Server`
-
-**Tools & Platforms**  
-`Git` `Docker` `Kubernetes` `Linux` `Postman`  `Jupyter` `VS Code`
+- 🔭 **Currently:** Working as a Software Engineer I  
+- 💡 **Tech Focus:** Backend Systems, API Development, ETL, Full-Stack Applications  
+- 🌱 **Learning:** Java, System Design, and Scalable Architecture  
+- 🤝 **Collaboration:** Open to freelance, remote, or OSS collaboration  
 
 ---
 
-### 📊 GitHub Stats
+
+## ⚒️ Tech Stack
+
+
+Languages       : JavaScript · Python · Java  · TypeScript · SQL · C++
+Frontend        : Angular · React · HTML · CSS · Bootstrap
+Backend         : .NET Core · Node.js · Express.js · Spring Boot
+Databases       : PostgreSQL · MySQL · MongoDB · Oracle
+Tools & DevOps  : Git · Docker · Kubernetes · Postman · Power BI · VS Code
 
 <p align="center">
-  <a href="https://github.com/abinmadathil/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=abinmadathil&show_icons=true&count_private=true&hide=stars&theme=default" alt="Abin's GitHub Stats" />
-  </a>
+  <img src="gift.gif" alt="Coding Gif" width="400" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/abinmadathil/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinmadathil&layout=compact&langs_count=8&theme=default" alt="Top Languages Used" />
-  </a>
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abinmadathil&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=413 height=163 src="https://github-readme-streak-stats-eight.vercel.app/?user=abinmadathil&theme=tokyonight" alt="streak stats"/>
+  <img width="390" height="163" src="https://github-readme-stats.vercel.app/api?username=abinmadathil&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="Abin GitHub Stats" />
+  <br/><br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinmadathil&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=css" alt="Top Languages" />
+</div>
 
 
----
-
-### 📫 Contact
-
-- LinkedIn: [@abinmadathil](https://www.linkedin.com/in/abinmadathil/)
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/> abinmadathil.dev [at] gmail.com
-
----
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
