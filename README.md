@@ -27,8 +27,6 @@ I focus on building clean, efficient systems and love solving real-world problem
 
 ---
 
-<h2 align="center">⚒️ Tech Stack</h2>
-
 <h2 align="center">⚒️ My Tech Stack</h2>
 
 <p align="center">
