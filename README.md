@@ -41,18 +41,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abinmadathil&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/abinmadathil/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=abinmadathil&show_icons=true&count_private=true&hide=stars&theme=default" alt="Abin's GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinmadathil&layout=compact&langs_count=10&hide=css" alt="Top Languages" />
+  <a href="https://github.com/abinmadathil/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinmadathil&layout=compact&langs_count=8&theme=default" alt="Top Languages Used" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=abinmadathil&theme=default" alt="GitHub Streak" />
+  <a href="https://github.com/abinmadathil/github-readme-stats">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=abinmadathil&theme=default" alt="GitHub Streak" />
+  </a>
 </p>
 
----
 
 ---
 
