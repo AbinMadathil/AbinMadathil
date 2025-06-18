@@ -16,9 +16,9 @@
 ### 🧑‍💻 About Me
 
 - 💼 Currently working as a **Software Engineer I** at **Celigo**.
-- 🚀 Hands-on with **.NET, Angular, Node.js, Python**, and modern web development.
-- 🧠 Actively enhancing my skills in **Cloud, DevOps, and System Design**
-- 🤝 Open to collaborations in scalable system design, automation, and development best practices
+-  Hands-on with **.NET, Angular, Node.js, Python**, and modern web development.
+-  Actively enhancing my skills in **Cloud, DevOps, and System Design**
+-  Open to collaborations in scalable system design, automation, and development best practices
 
 ---
 
