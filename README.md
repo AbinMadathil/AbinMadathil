@@ -14,12 +14,11 @@
 
 <!-- Content on the left -->
 <h3>
-  I'm <strong>Abin Madathil</strong>, a software developer from India 🇮🇳 who loves solving real-world problems with code.  
-  I specialize in building full-stack apps and automating workflows using modern tech like .NET, Angular, and Node.js.
+  I'm <strong>Abin Madathil</strong>, a software developer from India 🇮🇳.
 </h3>
 
 <ul>
-  <li>🛠 Software Engineer I at Celigo</li>
+  <li>🛠 <b>Software Engineer I </b>at <b>Celigo</b></li>
   <li>🌱 Continuous Learning</li>
   <li>⚡ Scalable APIs, ETL pipelines & Dashboards</li>
 </ul>
