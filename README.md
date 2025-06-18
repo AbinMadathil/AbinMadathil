@@ -53,8 +53,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abinmadathil/github-readme-stats">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=abinmadathil&theme=default" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=abinmadathil&theme=react" alt="GitHub Streak" />
   </a>
 </p>
 
