@@ -9,7 +9,6 @@
 </h1>
 
 
-<!-- Coding Animation -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/3e16f6c899626176be6f258c08a25f38375be72778d49a1f45182d9d7676cde8/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e676966" width="600" />
 </p>
@@ -21,9 +20,9 @@
 I'm **Abin Madathil**, a passionate software developer from India 🇮🇳  
 I focus on building clean, efficient systems and love solving real-world problems through code.
 
-- 🔭 **Currently:** Working as a Software Engineer I  
-- 💡 **Tech Focus:** Backend Systems, API Development, ETL, Full-Stack Applications  
-- 🌱 **Learning:** Java, System Design, and Scalable Architecture  
+- 🔭 **Currently:** Working as a Software Engineer I  **@Celigo**
+- 💡 **Tech Focus:** Backend Systems, API Development, Full-Stack Applications  
+- 🌱 **Learning:** React, Rust, AI/ML, System Design, and Scalable Architecture  
 - 🤝 **Collaboration:** Open to freelance, remote, or OSS collaboration  
 
 ---
