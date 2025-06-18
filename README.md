@@ -25,13 +25,13 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-`Python` `Java` `JavaScript` `TypeScript` `SQL` `C++`
+`JavaScript` `Python` `Java`  `TypeScript` `SQL` `C#`
 
 **Frameworks / Libraries**  
-`.NET` `Spring` `Express.js` `React` `Angular` `Flask` `Django`
+`NodeJs` `.NET` `Spring` `Express.js` `React` `Angular` `Flask` `Django`
 
 **Databases**  
-`PostgreSQL` `MySQL` `MongoDB` `Oracle` `SQL Server`
+`PostgreSQL` `MySQL` `MongoDB`  `SQL Server`
 
 **Tools & Platforms**  
 `Git` `Docker` `Kubernetes` `Linux` `Postman`  `Jupyter` `VS Code`
