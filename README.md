@@ -29,67 +29,53 @@ I focus on building clean, efficient systems and love solving real-world problem
 
 <h2 align="center">⚒️ Tech Stack</h2>
 
-<table align="center" width="95%">
-  <thead>
-    <tr>
-      <th align="left">💡 Category</th>
-      <th align="left">🚀 Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🧠 Languages</strong></td>
-      <td>
-        <img src="https://img.icons8.com/color/30/javascript.png" alt="JS" style="vertical-align:middle"/> JavaScript &nbsp;
-        <img src="https://img.icons8.com/color/30/python.png" alt="Python" style="vertical-align:middle"/> Python &nbsp;
-        <img src="https://img.icons8.com/color/30/java-coffee-cup-logo.png" alt="Java" style="vertical-align:middle"/> Java &nbsp;
-        <img src="https://img.icons8.com/color/30/typescript.png" alt="TS" style="vertical-align:middle"/> TypeScript &nbsp;
-        <img src="https://img.icons8.com/external-soft-fill-juicy-fish/30/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" style="vertical-align:middle"/> SQL &nbsp;
-        <img src="https://img.icons8.com/color/30/c-plus-plus-logo.png" alt="C++" style="vertical-align:middle"/> C++
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🎨 Frontend</strong></td>
-      <td>
-        <img src="https://img.icons8.com/color/30/angularjs.png" alt="Angular" style="vertical-align:middle"/> Angular &nbsp;
-        <img src="https://img.icons8.com/officel/30/react.png" alt="React" style="vertical-align:middle"/> React &nbsp;
-        <img src="https://img.icons8.com/color/30/html-5.png" alt="HTML" style="vertical-align:middle"/> HTML5 &nbsp;
-        <img src="https://img.icons8.com/color/30/css3.png" alt="CSS" style="vertical-align:middle"/> CSS3 &nbsp;
-        <img src="https://img.icons8.com/color/30/bootstrap.png" alt="Bootstrap" style="vertical-align:middle"/> Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🔧 Backend</strong></td>
-      <td>
-        <img src="https://img.icons8.com/color/30/net-core.png" alt=".NET Core" style="vertical-align:middle"/> .NET Core &nbsp;
-        <img src="https://img.icons8.com/color/30/nodejs.png" alt="Node.js" style="vertical-align:middle"/> Node.js &nbsp;
-        <img src="https://img.icons8.com/ios/30/express-js.png" alt="Express.js" style="vertical-align:middle"/> Express.js &nbsp;
-        <img src="https://img.icons8.com/color/30/spring-logo.png" alt="Spring Boot" style="vertical-align:middle"/> Spring Boot
-      </td>
-    </tr>
-    <tr>
-      <td><strong>🗄️ Databases</strong></td>
-      <td>
-        <img src="https://img.icons8.com/color/30/postgreesql.png" alt="PostgreSQL" style="vertical-align:middle"/> PostgreSQL &nbsp;
-        <img src="https://img.icons8.com/color/30/mysql-logo.png" alt="MySQL" style="vertical-align:middle"/> MySQL &nbsp;
-        <img src="https://img.icons8.com/color/30/mongodb.png" alt="MongoDB" style="vertical-align:middle"/> MongoDB &nbsp;
-        <img src="https://img.icons8.com/color/30/oracle-logo.png" alt="Oracle" style="vertical-align:middle"/> Oracle
-      </td>
-    </tr>
-    <tr>
-      <td><strong>⚙️ Tools & DevOps</strong></td>
-      <td>
-        <img src="https://img.icons8.com/color/30/git.png" alt="Git" style="vertical-align:middle"/> Git &nbsp;
-        <img src="https://img.icons8.com/color/30/docker.png" alt="Docker" style="vertical-align:middle"/> Docker &nbsp;
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" style="vertical-align:middle"/>
-Kubernetes &nbsp;
-        <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="30" style="vertical-align:middle"/>
- Postman &nbsp;
-        <img src="https://img.icons8.com/color/30/visual-studio-code-2019.png" alt="VS Code" style="vertical-align:middle"/> VS Code
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h2 align="center">⚒️ My Tech Stack</h2>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+</p>
+
 
 
 
