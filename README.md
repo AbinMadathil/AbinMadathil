@@ -1,5 +1,3 @@
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=abinmadathil&label=Visitors&color=0eb45e&style=flat" alt="profile views" />
 </p>
@@ -8,8 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Abin+Madathil;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-
-<!-- GIF on the right -->
+<!-- GIF on the right..testing dev containers -->
 <img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" width="350" height="200" style="object-fit: contain;">
 
 <!-- Content on the left -->
@@ -23,16 +20,11 @@
   <li>⚡ Scalable APIs, ETL pipelines & Dashboards</li>
 </ul>
 
-
-
-
-
 <br></br>
 
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=30&pause=1000&color=9CA3AF&center=false&vCenter=false&repeat=false&width=600&lines=My+Tech+Stacks" />
 </h1>
-
 
 <!-- Languages -->
 <p align="center">
@@ -78,10 +70,6 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
 </p>
 
-
-
-
-
 <p align="center">
   <img src="gift.gif" alt="Coding Gif" width="400" />
 </p>f
@@ -101,5 +89,3 @@
   <br/><br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinmadathil&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=css" alt="Top Languages" />
 </div>
-
-
