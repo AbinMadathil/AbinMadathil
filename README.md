@@ -74,12 +74,12 @@
   <img src="gift.gif" alt="Coding Gif" width="400" />
 </p>f
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
-</div>
+</div> -->
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
