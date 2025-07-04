@@ -82,6 +82,8 @@
   <br/><br/><br/>
 </div> -->
 
+<!-- create an MCP server tomorrow...figure out one idea to do so -->
+
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
