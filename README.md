@@ -82,7 +82,8 @@
   <br/><br/><br/>
 </div> -->
 
-<!-- create an MCP server tomorrow...figure out one idea to do so -->
+<!-- create an MCP server tomorrow...figure out one idea to do so...
+jsut started complete that in a day -->
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
