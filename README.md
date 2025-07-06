@@ -20,6 +20,7 @@
   <li>🌱 Continuous Learning</li>
   <li>⚡ Scalable APIs, ETL pipelines & Dashboards</li>
 </ul>
+<b>Complete an MCP server project by 13th July 2025 sunday...That should be a public repo</b>
 
 <br></br>
 
