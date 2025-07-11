@@ -89,7 +89,7 @@ jsut started complete that in a day -->
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=413 height=163 src="https://github-readme-streak-stats-eight.vercel.app/?user=abinmadathil" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=abinmadathil&theme=tokyonight" alt="GitHub Streak"/>
   <img width="390" height="163" src="https://github-readme-stats.vercel.app/api?username=abinmadathil&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="Abin GitHub Stats" />
   <br/><br/>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinmadathil&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide=css" alt="Top Languages" />
